@@ -10,7 +10,8 @@ https://vivawear.netlify.app/
 
 Ferramenta Descrição React Biblioteca JavaScript para interfaces de usuário Bootstrap 5 Framework CSS para layout e responsividade JavaScript (sem JSX) Construção da UI com React.createElement
 
-📂 Estrutura do Projeto pgsql Copiar Editar modafacil/ ├── src/ │ ├── components/ │ │ └── RoupaTable.js │ └── App.js ├── public/ │ └── index.html ├── package.json └── README.md
+📂 Estrutura do Projeto pgsql Copiar Editar modafacil/
+├── src/ │ ├── components/ │ │ └── RoupaTable.js │ └── App.js ├── public/ │ └── index.html ├── package.json └── README.md
 
 📱 Responsividade O componente da tabela está envolvido em uma div class="table-responsive", garantindo que o conteúdo possa ser rolado horizontalmente em telas pequenas, como celulares e tablets.
 
