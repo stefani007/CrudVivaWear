@@ -2,7 +2,7 @@ Sobre o Projeto O foco do ModaFácil é a experiência do usuário, mesmo em dis
 
 Acesse o deploy da VivaWear
 
-https://vivaw.netlify.app/
+https://vivawear.netlify.app/
 
 🚀 Funcionalidades Listagem de roupas com nome, tamanho, cor e preço Edição de roupas através de botão "Editar" Exclusão de roupas com botão "Excluir" Interface responsiva para diferentes tamanhos de tela Exibição de mensagem quando não há roupas cadastradas
 
